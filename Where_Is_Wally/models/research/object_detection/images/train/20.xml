@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20.jpg</filename>
+	<path>C:\Users\Nicolas Achury\Desktop\Nicolás\IBM Data Scientist Certification\Computer Vision\WhereIsWally\models\research\object_detection\images\train\20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2953</width>
+		<height>2088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wally</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>1678</ymin>
+			<xmax>338</xmax>
+			<ymax>1751</ymax>
+		</bndbox>
+	</object>
+</annotation>
